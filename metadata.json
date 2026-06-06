@@ -1,0 +1,6 @@
+{
+  "name": "Embedded C Basics",
+  "description": "Learn Embedded C programming from scratch (0% to Mastery) with 10 progressive levels of interactive puzzles, real-time registers simulator, bitwise bit toggles, and Gemini AI Tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
